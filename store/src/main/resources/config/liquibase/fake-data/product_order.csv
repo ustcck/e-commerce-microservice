@@ -1,0 +1,11 @@
+id;placed_date;status;code;customer_id
+1;2020-01-13T22:21:19;COMPLETED;Georgia calculate withdrawal;1
+2;2020-01-13T09:17:49;COMPLETED;compress Steel out-of-the-box;2
+3;2020-01-13T10:49:01;PENDING;Concrete;3
+4;2020-01-14T00:14:56;CANCELLED;Investment Account;4
+5;2020-01-13T11:31:46;PENDING;United States of America;5
+6;2020-01-14T01:43:50;CANCELLED;IB Industrial Credit Card Account;6
+7;2020-01-14T04:50:15;CANCELLED;Cotton Egyptian Pound;7
+8;2020-01-13T13:46:19;COMPLETED;Home Loan Account;8
+9;2020-01-13T22:40:35;COMPLETED;Human;9
+10;2020-01-13T08:49:13;CANCELLED;payment;10
